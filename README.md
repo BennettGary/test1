@@ -1,0 +1,2 @@
+# test1
+通过python分析一篇文章中所有单词的词频，结合matplotlib画出直方图
